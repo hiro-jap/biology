@@ -42,7 +42,7 @@ h1{
     border: inset 1rem #b94040;
     padding:2rem;
     background-color: rgb(65, 64, 64);
-    margin:10rem;
+    margin:4rem;
     cursor: pointer;
 }
 
@@ -128,7 +128,7 @@ h1{
 /* スマホver */
 @media screen and (max-device-width: 480px) {
     html{
-        background: url("https://kimetsu.com/anime/risshihen/assets/img/common/bg/bg_repeat_blue.jpg");
+        background: url("https://beiz.jp/images_P/japanese-paper/japanese-paper_00165.jpg");
         font-size: 21%;
 }
 
@@ -161,7 +161,7 @@ h1{
 
 .item{
     margin-right: 3rem;
-    width:10rem;
+    width:7rem;
 }
 
 .item p{
