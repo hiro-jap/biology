@@ -139,6 +139,10 @@ body{
     /* margin:0; */
 }
 
+.title{
+    margin:3rem;
+}
+
 img{
     /* padding:1rem; */
     width:100%;
@@ -187,7 +191,7 @@ h1{
 }
 
 .modal12 .modal-content{
-    margin-top:50%;
+    margin-top:20%;
 }
 
 .modal4 .modal-content{
