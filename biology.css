@@ -183,9 +183,7 @@ h1{
 }
 
 .modal11 .modal-content{
-    width:278px;
-    height:140px;
-    overflow: scroll;
+    margin-top: 10rem;
 }
 
 .modal12 .modal-content{
@@ -194,6 +192,7 @@ h1{
 
 .modal4 .modal-content{
     margin-top:15rem;
+    overflow: scroll;
 }
 
 .crisperimg{
