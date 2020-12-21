@@ -183,7 +183,7 @@ h1{
 }
 
 .modal11 .modal-content{
-    margin-top:0;
+    margin:0%;
 }
 
 .modal12 .modal-content{
@@ -191,15 +191,18 @@ h1{
 }
 
 .modal4 .modal-content{
-    margin-top:0;
-    padding-top: 0;
+    margin-top:0%;
 }
 
 .crisperimg{
     margin-top:20rem;
+    text-align: center;
+    width:60rem;
+    height: auto;
 }
 
-/* .item{
-    width:5rem;
-} */
+.box{
+    display: block;
+}
+
 }
