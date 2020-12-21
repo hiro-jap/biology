@@ -160,12 +160,25 @@ h1{
 }
 
 .item{
-    margin-right: 4rem;
-    width:15rem;
+    margin-right: 3rem;
+    width:10rem;
+}
+
+.item p{
+    font-size: 3rem;;
 }
 
 .modal-content{
     margin-top:60%;
+    background-color: rosybrown;
+}
+
+.modal-content h2{
+    font-size: 6rem;
+}
+
+.modal-content p{
+    font-size: 3rem;
 }
 
 .modal11 .modal-content{
