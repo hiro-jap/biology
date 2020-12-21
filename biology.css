@@ -20,6 +20,14 @@ img{
     position:relative;
 }
 
+.smart{
+    display: none;
+}
+
+.pc{
+    display: block;
+}
+
 h1{
     margin:0;
     position:absolute;
@@ -149,7 +157,16 @@ img{
     position:relative;
 }
 
+.smart{
+    display: block;
+}
+
+.pc{
+    display: none;
+}
+
 h1{
+    font-weight: 800;
     margin:0;
     position:absolute;
     left: 50%;
