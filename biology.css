@@ -196,9 +196,9 @@ h1{
 
 .crisperimg{
     margin-top:20rem;
-    text-align: center;
     width:30rem;
     height: auto;
+    margin:0 auto;
 }
 
 .box{
