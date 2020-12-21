@@ -33,6 +33,7 @@ h1{
 /* 各要素 */
 .wrap{
     display: flex;
+    justify-content: space-around;
     flex-wrap: wrap;
     margin: 2rem;
 }
@@ -182,7 +183,9 @@ h1{
 }
 
 .modal11 .modal-content{
-    margin-top:5rem;
+    width:278px;
+    height:140px;
+    overflow: scroll;
 }
 
 .modal12 .modal-content{
@@ -190,7 +193,7 @@ h1{
 }
 
 .modal4 .modal-content{
-    margin-top:5rem;
+    margin-top:15rem;
 }
 
 .crisperimg{
